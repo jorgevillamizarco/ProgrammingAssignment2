@@ -1,4 +1,6 @@
-## jorgevillamizarco assignment 2
+####################################
+## jorgevillamizarco assignment 2 ##
+####################################
 
 ## "makeCacheMatrix" and "cachesolve" are functions that create a matrix with cache and calculates matrix inverse 
 ## (must be a matrix created with makeCacheMatrix function) respectively.
